@@ -1,0 +1,5 @@
+# .gitignore
+csi_model.pth
+csi_csv/
+venv/
+*.pt
